@@ -1,0 +1,75 @@
+
+
+
+//Section Settings
+section {
+
+    position: relative;
+    text-align: center;
+    
+    
+    
+}
+
+//Button Settings
+button {
+    
+    
+    width: 5%;
+    padding: 2%;
+    background: none;
+    color: rgb(240, 5, 240);
+    border-color: rgb(240, 5, 240);
+    text-align: center;
+}
+
+button:hover {
+    
+    background-color: rgba(127, 15, 157, 0.399);
+}
+
+button#equal {
+
+   height: 90.8%;
+   position: absolute;
+   right: 100;
+   
+}
+
+#equal:hover {
+
+    background-color: rgba(127, 15, 157, 0.399);
+}
+
+button#zero {
+    width: 20%;
+    position: relative;
+}
+
+button#delete {
+
+    position: relative;
+
+    
+}
+
+
+//Results Input
+.results {
+    padding: 10px;
+    width: 17rem;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px ;
+    text-align: right;
+    background: none;
+    color: rgb(5, 185, 240);
+    border-color: rgb(240, 5, 240);
+}
+
+
+
+
+
+
+
